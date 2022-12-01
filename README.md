@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Sephley&color=green)
+
+<div id="header" align="left">
+  <img src="https://media.tenor.com/MX-W2_1KcSoAAAAC/london-crab.gif" width="500"/>
+</div>
