@@ -1,4 +1,4 @@
-### Greetings.
+### Greetings. 
 
 <!--
 **Sephley/Sephley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![](https://komarev.com/ghpvc/?username=Sephley&color=green)
 
 <div id="header" align="left">
-  <img src="https://media.tenor.com/MX-W2_1KcSoAAAAC/london-crab.gif" width="500"/>
+  <img src="https://media.tenor.com/rxTWJK4rpOUAAAAC/greetings-greeting.gif" width="300"/>
 </div>
