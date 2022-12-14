@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=Sephley&color=green)
+![](https://komarev.com/ghpvc/?username=Sephley&color=green&style=for-the-badge)
 
 <div id="header" align="left">
   <img src="https://media.tenor.com/rxTWJK4rpOUAAAAC/greetings-greeting.gif" width="300"/>
